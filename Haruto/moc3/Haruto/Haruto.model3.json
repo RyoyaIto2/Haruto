@@ -1,0 +1,64 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Haruto.moc3",
+		"Textures": [
+			"Haruto.8192/texture_00.png"
+		],
+		"Physics": "Haruto.physics3.json",
+		"DisplayInfo": "Haruto.cdi3.json",
+		"Expressions":[
+			{
+				"Name":"joy11-1",
+				"File":"../../motion/exp/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name":"joy11-10",
+				"File":"../../motion/exp/Joy/Joy_10.exp3.json"
+			},
+			{
+				"Name":"sad11-1",
+				"File":"../../motion/exp/Sad/Sad_01.exp3.json"
+			},
+			{
+				"Name":"sad11-10",
+				"File":"../../motion/exp/Sad/Sad_10.exp3.json"
+			},
+			{
+				"Name":"anger11-1",
+				"File":"../../motion/exp/Anger/Anger_01.exp3.json"
+			},
+			{
+				"Name":"anger11-10",
+				"File":"../../motion/exp/Anger/Anger_10.exp3.json"
+			},
+			{
+				"Name":"regret11-1",
+				"File":"../../motion/exp/Regret/Regret_01.exp3.json"
+			},
+			{
+				"Name":"regret11-10",
+				"File":"../../motion/exp/Regret/Regret_10.exp3.json"
+			},
+			{
+				"Name":"Dominance11-1",
+				"File":"../../motion/exp/Dominance/Dominance_01.exp3.json"
+			},
+			{
+				"Name":"Dominance11-10",
+				"File":"../../motion/exp/Dominance/Dominance_10.exp3.json"
+			},
+			{
+				"Name":"neutral",
+				"File":"../../motion/exp/Neutral/Neutral.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
