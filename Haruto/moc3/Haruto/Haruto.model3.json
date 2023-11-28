@@ -41,11 +41,11 @@
 				"File":"../../motion/exp/Regret/Regret_10.exp3.json"
 			},
 			{
-				"Name":"Dominance11-1",
+				"Name":"dominance11-1",
 				"File":"../../motion/exp/Dominance/Dominance_01.exp3.json"
 			},
 			{
-				"Name":"Dominance11-10",
+				"Name":"dominance11-10",
 				"File":"../../motion/exp/Dominance/Dominance_10.exp3.json"
 			},
 			{
@@ -58,7 +58,10 @@
 		{
 			"Target": "Parameter",
 			"Name": "EyeBlink",
-			"Ids": []
+			"Ids": [
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
+			]
 		}
 	]
 }
