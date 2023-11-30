@@ -52,7 +52,14 @@
 				"Name": "neutral",
 				"File": "../../motion/exp/Neutral/Neutral.exp3.json"
 			}
-		]
+		],
+		"Motions": {
+			"waiting": [
+				{
+					"File": "../../motion/waiting/EyeBlink.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
